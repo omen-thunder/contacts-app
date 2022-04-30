@@ -144,6 +144,16 @@ function App() {
     {id: 2, firstName: 'Chuck', lastName: 'McChuck', phoneNumber: '0422 222 222', emailAddress: 'chuck@fakemail.com', address: '2 Fake St, Faketown'},
     {id: 3, firstName: 'Dave', lastName: 'McDave', phoneNumber: '0433 333 333', emailAddress: 'dave@fakemail.com', address: '3 Fake St, Faketown'},
     {id: 4, firstName: 'Erin', lastName: 'McErin', phoneNumber: '0444 444 444', emailAddress: 'erin@fakemail.com', address: '4 Fake St, Faketown'},
+    {id: 5, firstName: 'Alice', lastName: 'McAlice', phoneNumber: '0400 000 000', emailAddress: 'alice@fakemail.com', address: '0 Fake St, Faketown'},
+    {id: 6, firstName: 'Bob', lastName: 'McBob', phoneNumber: '0411 111 111', emailAddress: 'bob@fakemail.com', address: '1 Fake St, Faketown'},
+    {id: 7, firstName: 'Chuck', lastName: 'McChuck', phoneNumber: '0422 222 222', emailAddress: 'chuck@fakemail.com', address: '2 Fake St, Faketown'},
+    {id: 8, firstName: 'Dave', lastName: 'McDave', phoneNumber: '0433 333 333', emailAddress: 'dave@fakemail.com', address: '3 Fake St, Faketown'},
+    {id: 9, firstName: 'Erin', lastName: 'McErin', phoneNumber: '0444 444 444', emailAddress: 'erin@fakemail.com', address: '4 Fake St, Faketown'},
+    {id: 10, firstName: 'Alice', lastName: 'McAlice', phoneNumber: '0400 000 000', emailAddress: 'alice@fakemail.com', address: '0 Fake St, Faketown'},
+    {id: 11, firstName: 'Bob', lastName: 'McBob', phoneNumber: '0411 111 111', emailAddress: 'bob@fakemail.com', address: '1 Fake St, Faketown'},
+    {id: 12, firstName: 'Chuck', lastName: 'McChuck', phoneNumber: '0422 222 222', emailAddress: 'chuck@fakemail.com', address: '2 Fake St, Faketown'},
+    {id: 13, firstName: 'Dave', lastName: 'McDave', phoneNumber: '0433 333 333', emailAddress: 'dave@fakemail.com', address: '3 Fake St, Faketown'},
+    {id: 14, firstName: 'Erin', lastName: 'McErin', phoneNumber: '0444 444 444', emailAddress: 'erin@fakemail.com', address: '4 Fake St, Faketown'},
   ];
 
   return <Contacts people={people}/>
